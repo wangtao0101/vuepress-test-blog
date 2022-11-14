@@ -1,16 +1,15 @@
-函数概览 
-=========================
+# 函数概览
 
 本文列举SQL分析所涉及的函数与运算符。
 
-聚合函数 
+## 聚合函数 
 -------------------------
 
 
 
 |                                                函数名称                                                |                        说明                        |
 |----------------------------------------------------------------------------------------------------|--------------------------------------------------|
-| [arbitrary函数](t13105.html#LogService-user-guide-0103/section-q2a-3qi-wfu)       | 返回x中任意一个非空的值。                                    |
+| [arbitrary函数](./1聚合函数.md#arbitrary函数)       | 返回x中任意一个非空的值。                                    |
 | [avg函数](t13105.html#LogService-user-guide-0103/section-r3j-gup-zms)             | 计算x中的算术平均值。                                      |
 | [bitwise_and_agg函数](t13105.html#LogService-user-guide-0103/section-0zv-j94-nft) | 返回x中所有值按位与运算（AND）的结果。                            |
 | [bitwise_or_agg函数](t13105.html#LogService-user-guide-0103/section-2cr-39j-c02)  | 返回x中所有值按位或运算（OR）的结果。                             |
